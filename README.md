@@ -9,10 +9,10 @@ We release Rasa, the first multilingual expressive TTS dataset for any Indian la
 
 **Authors:** Praveen S V*, Ashwin Sankar*, Giri Raju, Mitesh M. Khapra
 
-
+Website - https://ai4bharat.iitm.ac.in/rasa/v1/
 
 ### Downloads:
-Model checkpoints can be downloaded at https://ai4bharat.iitm.ac.in/rasa/v1/
+Model checkpoints can be downloaded at https://github.com/AI4Bharat/Rasa/releases 
 
 | Language | Links                                                                                            |
 |----------|--------------------------------------------------------------------------------------------------|
