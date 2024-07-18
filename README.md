@@ -1,6 +1,4 @@
-# AI4Bharat Indic-TTS
-
-## Rasa: Building Expressive Speech Synthesis Systems for Indian Languages in Low-resource Settings
+# Rasa: Building Expressive Speech Synthesis Systems for Indian Languages in Low-resource Settings
 
 > 🎉 Accepted at INTERSPEECH 2024
 
