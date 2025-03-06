@@ -35,7 +35,7 @@ cd ..
 
 ### Data Setup
 
-The data should be formatted similar to LJSpeech. You may find the metadata along with the audio here - https://ai4bharat.iitm.ac.in/rasa/v1/.
+The data should be formatted similar to LJSpeech.
 
 
 ### Training:
