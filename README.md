@@ -9,18 +9,11 @@ We release Rasa, the first multilingual expressive TTS dataset for any Indian la
 
 **Authors:** Praveen S V*, Ashwin Sankar*, Giri Raju, Mitesh M. Khapra
 
-Website - https://ai4bharat.iitm.ac.in/rasa/v1/
 
 ### Downloads:
 Model checkpoints can be downloaded at https://github.com/AI4Bharat/Rasa/releases 
 
-| Language | Links                                                                                            |
-|----------|--------------------------------------------------------------------------------------------------|
-| Assamese | [(3.8 GB)](https://indic-tts-public.objectstore.e2enetworks.net/data/expressive_assamese_tts_dataset.tar.gz) |
-| Bengali  | [(4.0 GB)](https://indic-tts-public.objectstore.e2enetworks.net/data/expressive_bengali_tts_dataset.tar.gz)  |
-| Tamil    | [(9.1 GB)](https://indic-tts-public.objectstore.e2enetworks.net/data/expressive_tamil_tts_dataset.zip) |
-
-
+Data can be downloaded at https://huggingface.co/datasets/ai4bharat/Rasa
 ## Setup:
 
 
@@ -66,6 +59,20 @@ The data should be formatted similar to LJSpeech. You may find the metadata alon
         --out_path ${output_dir} \
         --use_cuda t \
         --use_emotion t \
+```
+
+## License
+CC-BY-4.0
+
+## Citation
+If you use this dataset, please cite:
+```
+@inproceedings{ai4bharat2024rasa,
+  author={Praveen Srinivasa Varadhan and Ashwin Sankar and Giri Raju and Mitesh M. Khapra},
+  title={{Rasa: Building Expressive Speech Synthesis Systems for Indian Languages in Low-resource Settings}},
+  year=2024,
+  booktitle={Proc. INTERSPEECH 2024},
+}
 ```
 
 Code Reference: 
